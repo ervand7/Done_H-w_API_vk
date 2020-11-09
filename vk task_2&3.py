@@ -20,7 +20,7 @@ import tqdm
 # print('?'.join([oauth_api_base_url, urlencode(oauth_params)]))
 
 # ____________________  2-nd stage: we already have the token  ____________________________________________________
-TOKEN = 'c000969e3c270b9947bd26aea03beb35d31797026865f9f46da7459e45fb815b6d3a0e1644019c45ac6c9'
+TOKEN = ''
 API_BASE_URL = 'https://api.vk.com/method/'
 V = '5.21'
 
