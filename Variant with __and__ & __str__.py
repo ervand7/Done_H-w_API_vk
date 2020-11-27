@@ -19,7 +19,7 @@ from pprint import pprint
 # print('?'.join([oauth_api_base_url, urlencode(oauth_params)]))
 
 # ____________________  2-nd stage: we already have the token  ____________________________________________________
-TOKEN = 'b73f9ca280e4f7f6ff6e7e2f320d3331033217b9d4334dc501dea524802feb194540a0847a0de92772e57'
+TOKEN = ''
 API_BASE_URL = 'https://api.vk.com/method/'
 V = '5.21'
 
